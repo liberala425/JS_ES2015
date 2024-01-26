@@ -9,4 +9,4 @@
 3. Difference between let and const:
    -  let can be reassigned but const cannot
 4. Hoisting:
-   It moves the delclaration of the variables/functions/classes at the beginning of the code then execuate the initialization afterwards. 
+   It moves the delclaration of the variables/functions/classes at the beginning of the code then execuate the initialization afterwards. It's applied to var variable but not let and const.
